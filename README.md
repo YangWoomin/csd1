@@ -18,14 +18,14 @@
 ###1. 필요성 
 
 * 매일 사용하는 화장 도구(브러시, 퍼프)는 **비위생적**으로 방치되기 쉬우며, 사용자가 일일이 신경쓰기 쉽지 않다.
-따라서, 이를 보완해 줄 시스템이 필요하다. [관련 정보 사이트][1]
+따라서, 이를 보완해 줄 시스템이 필요하다. [관련 정보 사이트] [1]
 * 이를 보완해 줄 *스마트 뷰티 도구 관리 시스템*이 필요하다.
 
 -------------
 
 ###2. 시스템 개요
 
-*** 꾸미세요 ***
+(꾸미세요)
 다양한 모양의 브러시와 퍼프를 세척기 내부에서 세제와 물을 사용하여 세척한다.
 세척이 완료되면 자동으로 브러시와 퍼프를 건조한다.
 건조가 완료되면 브러시와 퍼프를 살균한다. 또한 살균 시간과 주기를 사용자가 설정할 수 있다.
@@ -51,7 +51,7 @@
 
 ---------------
 
-[1] : http://blog.naver.com/PostView.nhn?blogId=ppury99&logNo=220670949442&categoryNo=0&parentCategoryNo=6&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView
+[1]: http://blog.naver.com/PostView.nhn?blogId=ppury99&logNo=220670949442&categoryNo=0&parentCategoryNo=6&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView
 
 >
 *** 각 조의 github 원격저장소에 md 파일을 올리고 확인해보자 ***
