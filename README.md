@@ -17,9 +17,9 @@
 
 ###1. 필요성 
 
---*매일 사용하는 화장 도구는 **비위생적**으로 방치되기 쉬우며, 사용자가 일일이 신경쓰기 쉽지 않다.
+*매일 사용하는 화장 도구는 **비위생적**으로 방치되기 쉬우며, 사용자가 일일이 신경쓰기 쉽지 않다.
 따라서, 이를 보완해 줄 시스템이 필요하다.
---*이를 보완해 줄 스마트 뷰티 도구 관리 시스템이 필요하다.
+*이를 보완해 줄 스마트 뷰티 도구 관리 시스템이 필요하다.
 
 -------------
 
@@ -29,7 +29,7 @@
 
 ###3. 기존 관련 사례
 
---*Brush Pearl
+*Brush Pearl
 
 ![enter image description here](http://media.allure.com/photos/5771a75f3b5256713da4b9c0/master/pass/beauty-trends-blogs-daily-beauty-reporter-2015-09-03-brush-pearl.jpg)
 
