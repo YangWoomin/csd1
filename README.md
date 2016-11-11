@@ -6,7 +6,7 @@
 >-2013xxxxxxx
 >-2013xxxxxxx
 
-![Alt text](https://github.com/YangWoomin/csd1/bleaner.png
+![Alt tag](https://github.com/YangWoomin/csd1/bleaner.png
 
 ###1. 필요성 
 
