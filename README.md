@@ -6,7 +6,7 @@
 >-2013xxxxxxx
 >-2013xxxxxxx
 
-![enter image description here](https://github.com/YangWoomin/csd1/bleaner.png)![enter image description here](https://lh3.googleusercontent.com/-0SzQElDoVtw/WCU-0S3YNvI/AAAAAAAAAFo/j9xse9prHO4/s0/bleaner.png "bleaner.png")
+(https://github.com/YangWoomin/csd1/bleaner.png)![enter image description here](https://lh3.googleusercontent.com/-0SzQElDoVtw/WCU-0S3YNvI/AAAAAAAAAFo/j9xse9prHO4/s0/bleaner.png "bleaner.png")
 
 ###1. 필요성 
 
