@@ -1,6 +1,11 @@
-# csd1
-[<i class="icon-refresh"></i> Synchronization]
-<i class="icon-file"></i>
+# 1조의 시스템 설계
+
+조원
+>-2009xxxxxxx
+>-2013xxxxxxx
+>-2013xxxxxxx
+>-2013xxxxxxx
+
 ㄷㄷ양ㅜㅣ바
 
 ###1. 필요성 
