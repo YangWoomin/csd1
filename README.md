@@ -22,7 +22,9 @@
 ###3. 기존 관련 사례
 
 1) Brush Pearl
+
 ![enter image description here](http://media.allure.com/photos/5771a75f3b5256713da4b9c0/master/pass/beauty-trends-blogs-daily-beauty-reporter-2015-09-03-brush-pearl.jpg)
+
  [사용후기 영상](https://youtu.be/-BnR4_kKj8o)
  
  Brush pearl은 세탁기와 비슷한 형태의 브러시 세척 기기이다. 제품 내부에 같이 판매하는 전용 세제를 넣은 뒤, 벽면에 물의 양을 확인할 수 있도록 용량이 표시되어 있다. 내부에 물을 붓고 뚜껑 부분에 브러시를 장착한다. 오른쪽 버튼으로 세탁기처럼 세척시간 설정가능하다. 보관 시 물티슈로 내부를 간단히 닦아 관리할 수 있다.
