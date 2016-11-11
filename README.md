@@ -2,7 +2,7 @@
 
 조원
 >-2009xxxxxxx
->-2013xxxxxxx
+>-2013136019 김수연
 >-2013xxxxxxx
 >-2013xxxxxxx
 ![enter image description here](https://lh3.googleusercontent.com/-0SzQElDoVtw/WCU-0S3YNvI/AAAAAAAAAFo/j9xse9prHO4/s0/bleaner.png "bleaner.png")
@@ -21,11 +21,11 @@
 
 ###3. 기존 관련 사례
 
-#1) Brush Pearl
+1) Brush Pearl
 ![enter image description here](http://media.allure.com/photos/5771a75f3b5256713da4b9c0/master/pass/beauty-trends-blogs-daily-beauty-reporter-2015-09-03-brush-pearl.jpg)
- Brush pearl은 세탁기와 비슷한 형태의 브러시 세척 기기이다. 제품 내부에 같이 판매하는 전용 세제를 넣은 뒤, 벽면에 물의 양을 확인할 수 있도록 용량이 표시되어 있다. 내부에 물을 붓고 뚜껑 부분에 브러시를 장착한다. 오른쪽 버튼으로 세탁기처럼 세척시간 설정가능하다. 보관 시 물티슈로 내부를 간단히 닦아 관리할 수 있다.
- 
  [사용후기 영상](https://youtu.be/-BnR4_kKj8o)
+ 
+ Brush pearl은 세탁기와 비슷한 형태의 브러시 세척 기기이다. 제품 내부에 같이 판매하는 전용 세제를 넣은 뒤, 벽면에 물의 양을 확인할 수 있도록 용량이 표시되어 있다. 내부에 물을 붓고 뚜껑 부분에 브러시를 장착한다. 오른쪽 버튼으로 세탁기처럼 세척시간 설정가능하다. 보관 시 물티슈로 내부를 간단히 닦아 관리할 수 있다.
  
  IoT가 반영이 되지 않은 제품이며 세척율이 낮은 부분을 보완해야 할 필요가 있다. 우리가 구현하려는 화장품 소도구 세척기로서 핵심 기능을 포함하고 있는 시판 제품이다. 이 제품의 기능을 근간으로 하여 IoT 시스템으로 구현하고자 한다.
  
