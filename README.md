@@ -1,4 +1,4 @@
-# 1조의 시스템 설계
+﻿# 1조의 시스템 설계
 
 조원
 >-2009xxxxxxx
@@ -6,7 +6,7 @@
 >-2013xxxxxxx
 >-2013xxxxxxx
 
-ㄷㄷ양ㅜㅣ바
+![Alt text](https://github.com/YangWoomin/csd1/bleaner.png
 
 ###1. 필요성 
 
