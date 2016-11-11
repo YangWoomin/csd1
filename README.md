@@ -8,7 +8,8 @@
 >-2013136052 백지선
 
 >-2013136133 최유경
-![enter image description here](https://lh3.googleusercontent.com/-0SzQElDoVtw/WCU-0S3YNvI/AAAAAAAAAFo/j9xse9prHO4/s0/bleaner.png "bleaner.png")
+
+![](/bleaner.png)
 
 ###1. 필요성 
 
