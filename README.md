@@ -1,5 +1,6 @@
 # csd1
-
+[<i class="icon-refresh"></i> Synchronization]
+<i class="icon-file"></i>
 ㄷㄷ양ㅜㅣ바
 
 ###1. 필요성 
